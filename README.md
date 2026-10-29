@@ -42,7 +42,6 @@ To run the project, you may need to:
 3. Execute the SQL schema or database script, if provided.
 4. Configure the database connection in the Java application.
 
-Database setup instructions and required tables should be documented here.
 
 ## Getting Started
 
