@@ -20,7 +20,6 @@ It demonstrates the integration of Java with a relational database to store, ret
 - Storage and retrieval of reservation information
 - Structured data management through a relational database
 
-*Note: Update this list to reflect the features implemented in your application.*
 
 ## Project Structure
 
@@ -31,7 +30,7 @@ Online_Reservation_System/
 └── [Other project files]
 ```
 
-*The project structure above is illustrative. Update it to match your actual files and folders.*
+
 
 ## Database
 
